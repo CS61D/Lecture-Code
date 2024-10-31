@@ -1,0 +1,8 @@
+[submodule "Lecture-JavaScript"]
+	path = Lecture-JavaScript
+	url = https://github.com/CS61D/Lecture-JavaScript.git
+	branch = main
+[submodule "Lecture-TypeScript"]
+	path = Lecture-TypeScript
+	url = https://github.com/CS61D/Lecture-TypeScript.git
+	branch = main
